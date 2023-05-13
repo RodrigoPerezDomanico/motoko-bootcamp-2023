@@ -39,3 +39,7 @@ For running prettier:
 `npm run prettier`
 
 
+## JSON repo
+
+https://github.com/aviate-labs/json.mo
+

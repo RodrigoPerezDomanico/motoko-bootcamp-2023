@@ -2,3 +2,4 @@
 base = "0.8.7"
 mospec = "https://github.com/MoSpec/mo-spec#v0.1.0"
 motoko-hash-map = "https://github.com/ZhenyaUsenko/motoko-hash-map#master"
+"json.mo" = "https://github.com/aviate-labs/json.mo#master"
