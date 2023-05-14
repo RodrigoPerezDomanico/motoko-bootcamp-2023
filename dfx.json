@@ -19,6 +19,14 @@
     "day5": {
       "main": "src/day5/main.mo",
       "type": "motoko"
+    },
+    "tester": {
+      "main": "src/day5/tester.mo",
+      "type": "motoko"
+    },
+    "calculator": {
+      "main": "src/day5/Calculator.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
